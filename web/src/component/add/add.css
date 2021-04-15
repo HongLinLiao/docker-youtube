@@ -1,0 +1,24 @@
+.area-add {
+    padding: 30px;
+}
+
+.add-text {
+    color: white;
+}
+
+.add-input {
+    width:200px;
+    margin-right: 20px;
+}
+
+.task-card-area {
+    margin: 30px;
+}
+
+.task-json {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(36, 187, 94);
+    border-radius: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,9 @@
+.app-container {
+  background-color: #181818;
+  height: 100%;
+  width: 100%;
+}
+
+.app-body {
+  overflow-y: scroll;
+}
